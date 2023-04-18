@@ -1,0 +1,75 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+Functions can be incredibly powerful tools for creating a program that generates a receipt. For example, a 
+function could be defined that takes in a list of items and their prices, calculates the subtotal, applies any 
+discounts or taxes, and returns the final total. By using a function for this calculation, the code can be 
+organized more clearly, making it easier to read and modify as necessary.
+
+Another function could be defined that takes in the customer's name, the date of the transaction, and the final 
+total, and generates a formatted receipt that includes all of this information. By using a function to generate 
+the receipt, the code can be more modular and easier to maintain. If any changes need to be made to the receipt 
+format, the function can be updated without affecting the rest of the code.
+
+In addition to making the program more organized and maintainable, using functions can also make it more 
+flexible. For example, if the program needs to be expanded to include more items or different types of 
+discounts, these changes can be made by modifying the appropriate functions without affecting the rest of the 
+code. This makes it easier to adapt the program to different scenarios and requirements.
+
+Overall, functions can be a powerful tool for creating a program that generates a receipt. By breaking down the 
+different components of the program into smaller, reusable parts, the code can be made more organized, 
+maintainable, and flexible.
+
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are an essential component of the software development process, as they allow developers to 
+verify that their code is working as expected. By writing test functions, developers can check that their code 
+is producing the correct output for a given set of inputs, and they can quickly detect and target any errors or 
+bugs that may exist in the code.
+
+The value of test functions lies in their ability to ensure that code changes do not introduce new bugs or 
+regressions. By running the test functions after making changes to the code, developers can verify that the 
+changes have not broken any existing functionality. This allows developers to catch issues early in the 
+development process, before they become more complex and difficult to fix.
+
+Test functions also serve as a form of documentation for the code. By reading the test functions, developers 
+can understand the expected behavior of the code and how it should interact with different inputs and outputs. 
+This can be particularly helpful when working with complex or unfamiliar code, as the test functions can provide 
+a clear and concise summary of how the code is intended to work.
+
+In summary, test functions are valuable because they help ensure the correctness of the code, catch bugs early 
+in the development process, and provide a form of documentation for the code's behavior. By including test 
+functions as part of the development process, developers can improve the quality and reliability of their code, 
+while also making it easier to maintain and understand.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+      A: Reproduce the problem: I try to reproduce the problem consistently to understand the symptoms and 
+         identify the root cause.
+
+      B: Analyze the code: I review the relevant code to understand how the program is supposed to work and how 
+         it is currently failing.
+
+      C: Identify potential solutions: Based on my analysis, I brainstorm potential solutions to the problem, 
+         such as modifying the code or adjusting input parameters.
+
+      D: Implement and test the solution: Once I have identified a potential solution, I implement the changes 
+         in the code and test them to ensure that the problem has been resolved.
+
+      E: Verify the fix: After implementing the solution, I verify that the program is working as expected and 
+         that the problem has been resolved.
+
+One thing I can do to improve my process is to incorporate more systematic debugging techniques. For example, I 
+could use a debugger to step through the code and identify the exact point where the problem occurs. This could 
+help me to better understand the root cause of the problem and identify potential solutions more quickly and 
+accurately.
+
+Another thing I can do is to take a more methodical approach to problem-solving by breaking down the problem 
+into smaller, more manageable parts. This can help me to focus my efforts and identify potential solutions more 
+effectively. Additionally, I can improve my process by documenting each step along the way, including any 
+changes I make to the code and the results of any tests I run. This can help me to keep track of my progress 
+and ensure that I am moving closer to a solution.
